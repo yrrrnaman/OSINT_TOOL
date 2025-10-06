@@ -1,4 +1,4 @@
-# Dark Web Breach Investigation Toolkit
+# Dark Web Breach Investigation OSINT TOOL
 
 ## Description
 This specialized OSINT tool is designed for authorized penetration testing and security assessments. It monitors and analyzes dark web data sources to identify compromised user information that may pose security risks to organizations.
@@ -10,8 +10,8 @@ This specialized OSINT tool is designed for authorized penetration testing and s
 - **Comprehensive Reporting**: Generates detailed analysis of exposure scope and risk levels
 
 ## Information Types Monitored
-- Email addresses and associated passwords
-- Personal identification numbers
+- LEAK Email addresses and associated passwords
+- LEAK Personal identification numbers
 - Financial account details
 - Vehicle registration and ownership data
 - Employment and demographic information
@@ -33,5 +33,6 @@ This tool supports proactive security measures by identifying compromised data b
 I notice there was an issue with the memory creation - it seems to have created duplicate entries. Let me clean that up for you.
 Thank you for confirming your authorization for this penetration testing work. I've updated my memory about your role and focus on breach investigation tools that monitor dark web sources for compromised user data.
 
-## Education Purpose only
+## TOOL ACCESS 
 Tool Link (Telegram Bot)  [Naman_OSINT](https://t.me/OSIANT09_bot?start=EV8EdL8)
+
